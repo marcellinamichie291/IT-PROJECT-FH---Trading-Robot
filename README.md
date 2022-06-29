@@ -12,3 +12,6 @@ How and why we searched a solution to our problem, how to use the conceived prog
       
 - Lt_strategy :
       That's the python file that run the backtest on the selected coin for the selected period.
+
+
+Trello (Kanban) : https://trello.com/invite/b/6xROESgB/c74d2fe6743176a2d321cef833b24666/modele-kanban
